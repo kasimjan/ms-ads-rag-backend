@@ -1,0 +1,115 @@
+UChicago Data Science Institute — Parsed content from https://datascience.uchicago.edu/about/
+
+About DSI
+The UChicago Data Science Institute (DSI) executes the University of Chicago’s bold, innovative vision of data science as a new discipline.
+
+DSI partners with organizations from academia, industry, government, and the non-profit sector through a variety of research, education, and outreach programs.
+
+Main sections and highlighted items
+
+1) About
+- About the Data Science Institute
+  The Data Science Institute (DSI) executes the University of Chicago’s bold, innovative vision of Data Science as a new discipline.
+- Jobs & Opportunities
+  Open faculty, postdoctoral, staff, and student roles with the UChicago Data Science Institute and its partners.
+- Visiting DSI @ UChicago
+- Contact
+
+2) Education
+Academic Programs
+- Undergraduate Data Science Major
+  A curriculum combining computational and analytical skills, domain knowledge, communication skills, and ethics.
+- Master's Programs
+  Degree-granting programs in computational analysis and public policy and applied data science.
+- PhD Program
+  Combining training in mathematical foundations of data science, responsible data use, and advanced computational methods.
+
+Other Programs
+- Data Science Clinic
+  An experiential project-based course where students work in teams with real-world clients from industry, academia, and social impact organizations.
+- Summer Research Programs
+  Summer research opportunities for undergraduate students in an immersive, interdisciplinary environment.
+- Preceptors in Data Science
+  A partnership between the University of Chicago and City Colleges of Chicago to train the next generation of data science educators.
+
+3) Research
+Initiatives
+- AI + Science
+  A new paradigm of transformational AI-enabled scientific discovery across the physical and biological sciences.
+- Data & Democracy
+  Protecting democracy in the digital age through cross-disciplinary research and convening key stakeholders.
+- AICE: AI for Climate
+  Inter-disciplinary integration of AI with fundamental domain knowledge to accelerate and transform climate research with a focus on both scientific advances and societal impacts.
+- Data Ecology
+  The goal of data ecology is to study dataflows and design interventions to control how data impacts our world.
+- Novel Intelligence
+  Exploring how to train AI models that augment rather than mimic human capacity.
+
+Programs
+- Outlier Research & Evaluation
+  A team committed to bringing equity to education with a focus on learners of all ages from groups historically underrepresented in STEM.
+- Open Spatial Lab
+  Creating open source tools and analyses to solve problems using geospatial data science.
+- Data Science Software Development Core
+  Providing software development and data science services across the University.
+- Seed Funding Projects
+  Early-stage, interdisciplinary research funded and supported by the Data Science Institute.
+- Funding Opportunities
+  Open calls for funding for early-stage, transformative data science research.
+- Postdoctoral Programs
+  Unique opportunities for early-career scientists who wish to advance cutting-edge data science approaches, methods, and applications in research.
+
+Past Initiatives
+- Internet Innovation
+  Measuring and analyzing Internet performance and reliability to address inequity in U.S. communities.
+
+4) Partnerships / Outreach
+- Industry Partnerships
+  Connecting industry partners to groundbreaking data science research, emerging technologies, and talent acquisition opportunities at UChicago.
+- 11th Hour Project Software and Data Hub
+  Software and data science support for grantees of the 11th Hour Project.
+- Community Data Fellows
+  Pairing students with local community organizations to leverage data and technology in service of their mission.
+- Data Science for Social Impact Network
+  A consortium of diverse higher education partners to broaden STEM participation and amplify social impact through data science.
+- Data4All High School Workshop
+  A program introducing Chicago high schoolers to data science and inspiring them to consider career pathways in data science and AI.
+- AI+Science Summer School
+  A yearly program introducing graduate students and researchers to the emerging field of AI+Science.
+
+5) People
+- Faculty, Leadership, & Staff
+- Research Advisory Committee
+- Affiliated Faculty
+- Postdoctoral Scholars
+
+6) News & Events (examples shown on page)
+News
+- University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant
+- University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner
+- From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI
+
+Insights
+- What If AI Scientists Could Talk to Each Other?
+- UChicago Researchers Build a Tool to Help Fix Peer Review
+- Could AI Help Us Be More Thoughtful Voters?
+
+Events
+- Apr 21: Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation
+- Apr 21: Emma Liu (UChicago): Schmidt AI in Science Speaker Series
+- Apr 21: Info Session – MS in Applied Data Science (In-Person Program)
+
+Jobs & Opportunities section
+- Several job opportunities are currently open, including faculty positions, postdoctoral and preceptorship programs, student research and mentorship opportunities, and technical and administrative staff positions.
+
+Visiting DSI
+- The Data Science Institute is located on the University of Chicago campus across three buildings: 5460 S University Ave, Ryerson Laboratory, and the NBC Tower.
+
+Contact
+Data Science Institute
+5460 S University Ave
+Chicago, IL 60615
+Email: data-science@uchicago.edu
+
+Source note
+This text file was created by extracting and cleaning the visible text from the UChicago Data Science Institute About page.

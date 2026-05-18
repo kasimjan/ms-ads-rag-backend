@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ms-ads-rag-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_MODEL
+        value: gpt-4.1-mini
+      - key: DATA_DIR
+        value: /opt/render/project/src/data/txt
+      - key: PERSIST_DIR
+        value: /opt/render/project/src/chromadb_genai_midterm

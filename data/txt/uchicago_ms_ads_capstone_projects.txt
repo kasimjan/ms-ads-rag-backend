@@ -1,0 +1,107 @@
+University of Chicago Data Science Institute
+MS in Applied Data Science — Capstone Projects
+
+Source:
+https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/
+
+Page title:
+Capstone Projects | DSI
+
+Page overview:
+The Capstone experience is presented as the culminating experience in the Master’s in Applied Data Science program.
+The page says students stay at the cutting edge of real client needs, enhance collaboration skills, receive mentoring, and engage in networking opportunities.
+Faculty-mentored teams are described as adding value to companies across multiple sectors, including finance, entertainment, automotive, and more.
+
+Program description:
+The page states that the culminating experience in the Master’s in Applied Data Science program is a Capstone Project.
+Students immerse themselves in a real business problem and gain data-driven insights using authentic data.
+Together with project sponsors, students develop a data science solution to address organizational problems, enhance analytics capabilities, and expand talent pools and employment opportunities.
+
+Research-focused option:
+The page says students also have the option to join a research-focused team by leveraging the university’s research portfolio.
+It references a faculty-advisor video about research-driven capstone projects with real-world applications.
+
+Section headings shown on the page:
+- Capstone Experience
+- Capstone Research Projects
+- Interested in Becoming a Capstone Sponsor?
+- Selected Capstone Projects
+- Capstone Sponsor Incentives
+- Capstone Sponsor Obligations
+- Interested in Becoming a Capstone or Industry Research Partner?
+
+Capstone sponsorship timing:
+The Master’s in Applied Data Science program accepts projects year-round for placement during the Spring and Autumn quarters.
+The page says Spring quarter is the largest cohort.
+Projects must be submitted no later than one month prior to the beginning of the preferred starting quarter, based on the UChicago academic calendar.
+
+Capstone sponsorship guidelines:
+The page states that more details and FAQs are available in a Capstone Sponsorship Guidelines document linked for PDF download.
+
+Selected Capstone Projects:
+
+1. AI-Powered Storytelling App
+UChicago Applied Data Science students designed an AI-powered application that transforms children’s prompts into personalized stories.
+Using natural language processing and machine learning, the team built a system that generates dynamic, age-appropriate narratives in real time.
+The page describes this as an example of data science merging creativity with technology.
+
+2. SkySearch – Smarter Search from Above
+A team of MS in Applied Data Science students developed SkySearch, a drone-based vision system that enables drones to identify and locate objects in real-world environments using simple human prompts.
+The page says that instead of relying on a fixed list of recognizable objects, SkySearch expands what drones can search for and helps them respond to more complex and dynamic scenarios.
+
+3. Data Science for Good
+The page says students in the University of Chicago MS in Applied Data Science program are using their skills to make real impact, with examples ranging from predicting floods to supporting potential clinical breakthroughs.
+
+Capstone Sponsor Incentives:
+The page says sponsors derive measurable benefits from the opportunity to support higher education.
+Partner organizations can propose:
+- real-world problems
+- untested ideas
+- research queries
+
+Students review these from the perspective of data scientists trained to generate actionable insights that provide long-term value.
+The page also says Capstone partners gain access to:
+- a pool of students
+- highly accomplished instructors
+- cited researchers
+This is described as enabling optimized use of modern data science methods with sponsor data.
+The page further notes that, for many sponsors, the project becomes a meaningful recruitment source through the student talent involved.
+
+Capstone Sponsor Obligations:
+The page says there is no monetary cost or contract required to sponsor a project, but it is considered a partnership.
+Teams are described as consisting of four students guided by an instructor and subject matter expert.
+Sponsors are expected to provide:
+
+- A detailed problem statement with a description of the data and expected results
+- Two or more points of contact
+- Access to relevant project data by the first week of the applicable quarter
+- Engagement through regular meetings, typically bi-weekly, while classes are in session
+- If requested, a non-disclosure agreement that may be completed by the student team
+
+Partner contact / collaboration:
+The page invites prospective partners to get in touch to submit collaboration ideas or ask questions about how the partnership process works.
+
+Related navigation links visible on the page:
+- Overview
+- In-Person Program
+- Online Program
+- Capstone Projects
+- Capstone Project Archive
+- Course Progressions
+- How to Apply
+- Events & Deadlines
+- Tuition, Fees, & Aid
+- Our Students
+- Faculty, Instructors, Staff
+- FAQs
+- Explore the MS-ADS Campus
+- Career Outcomes
+- Get In Touch
+
+Visible site contact details in footer:
+Data Science Institute
+5460 S University Ave
+Chicago, IL 60615
+data-science@uchicago.edu
+
+End of parsed text.

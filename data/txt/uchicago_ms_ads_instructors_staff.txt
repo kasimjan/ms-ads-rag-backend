@@ -1,0 +1,88 @@
+University of Chicago Data Science Institute
+MS in Applied Data Science — Faculty, Instructors, Staff
+
+Source:
+https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff/
+
+Page title:
+Faculty, Instructors, Staff | DSI
+
+Page overview:
+As a Master’s in Applied Data Science student, you learn from faculty and instructors who are public- and private-sector leaders in emerging AI/AutoML technologies. The page says program leadership and staff support the success of a diverse student body and maintain curricular excellence in the evolving field of data science.
+
+Faculty, Instructors:
+- Greg Green — Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education
+- Arnab Bose, PhD — Associate Senior Instructional Professor, Program Director of MS in Applied Data Science Online Program; Chief Scientific Officer, UST AlphaAI
+- Francisco Azeredo, PhD — Associate Clinical Professor
+- Anil D. Chaturvedi, PhD — Associate Clinical Professor
+- Nick Kadochnikov — Associate Clinical Professor
+- Ming-Long Lam, PhD — Assistant Clinical Professor
+- Roger Moore, MBA — Associate Clinical Professor
+- Utku Pamuksuz, PhD — Associate Clinical Professor; Co-Founder, Inference Analytics
+- Donald Patchell, MSE, MBA — Associate Clinical Professor
+- Jonathan Williams, MS — Assistant Clinical Professor
+- Shaddy Abado, PhD — Adjunct Associate Professor; Lead Data Scientist at Ulta Beauty
+- Gizem Agar, PhD — Instructor; Analytics & Transformation Leader
+- Mike Anderson — Adjunct Assistant Professor
+- Steve Barry — Instructor; Head of Technology and Data, Savant Wealth Management
+- Shree Bharadwaj, MS — Instructor; Director and Innovation Fellow at West Monroe
+- Sanjay Boddhu, PhD — Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies
+- Fouad Bousetouane, PhD — Instructor; Co-Founder and Chief AI Officer at InterspectAI Inc.
+- Shahbaz Chaudhary, MA — Instructor; Manager of Data Science, Charles Schwab
+- Sebastien Donadio, PhD — Instructor; Chief Technology Officer, TradAir
+- Ignas Grabauskas — Instructor; Data Scientist at Simpson Thacher
+- Batu Gundogdu, PhD — Instructor; Research Assistant Professor (BSD), Senior AI Engineer at Eva
+- Justin Kurland, PhD — Instructor; Vice President, Tech Fellow in the Engineering Division at Goldman Sachs
+- Jeong-Yoon Lee, PhD — Lecturer
+- John Navarro — Adjunct Assistant Professor
+- Danny Ng, PhD — Instructor; Director of Machine Learning at Expedia Group
+- Ashish Pujari — Adjunct Associate Professor
+- Jenny Schmidt — Instructor; Analytics Talent Development Specialist
+- Jeanette Shutay, PhD — Instructor; President & Chief Data Officer at Shutay Consulting
+- Fan Yang, PhD — Instructor; Senior Manager at Discover Financial Service
+- Dmitri Sidorov — Instructor; Principal Data Scientist at Abbott
+- Igor Yakushin, PhD — Adjunct Assistant Professor; Applied Scientist
+
+Visible biography/details parsed from the page:
+
+Greg Green:
+Greg Green is listed as Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute. The page says he focuses on helping professional data science students solve complex industry problems with greater impact. It also notes that he has launched new offerings such as Leadership in Data Science and Artificial Intelligence, Consulting in Data Science, and Your Career in Data Science. His prior industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. He holds a PhD in Mathematics from Claremont Graduate School and an MS in Statistics from Michigan State University.
+
+Arnab Bose:
+Arnab Bose is listed as Associate Senior Instructional Professor, Faculty Director of the online program, and Curriculum Director in the MS in Applied Data Science program. The page says he has more than two decades of industry experience. It notes that he previously founded an AI startup focused on industrial applications in healthcare, finance, semiconductor, and retail, and later exited after acquisition. He is also listed as Chief Scientific Officer at UST AlphaAI. At UChicago he teaches Machine Learning, Machine Learning Operations, Time Series Analysis and Forecasting, and Data Science in Healthcare. He holds MS and PhD degrees from the University of Southern California and a BTech from IIT Kharagpur.
+
+Francisco Azeredo:
+Francisco Azeredo is described as a financial economist and decision scientist with more than 15 years of experience in leading financial and consulting firms in the Chicago area. The page says he previously served as senior vice president at Northern Trust, working on research and development of quantitative strategies for fixed income and equities. His teaching areas in the MS-ADS program include reinforcement learning, statistical analysis, non-linear statistical modeling, and optimization methods. He holds a PhD in Economics from the University of California, Santa Barbara.
+
+Anil D. Chaturvedi:
+The page says Anil Chaturvedi has more than 35 years of professional experience, including roles at AT&T Bell Labs, Kraft Foods, Capital One, and Accenture, and consulting work for Bank of America, Fannie Mae, Johnson & Johnson, and Procter & Gamble. His research interests include enhancing business value using data science. It also says he has patented and published algorithms for predictive modeling, market segmentation, product development, customer loyalty, promotion optimization, and brand strategy. He earned a PhD from Rutgers University and an MBA from IIM Ahmedabad.
+
+Nick Kadochnikov:
+Nick Kadochnikov is listed as Associate Clinical Professor at the University of Chicago Data Science Institute and head of Artificial Intelligence and Advanced Technology at Harbor Global. The page says he previously served as Director of AI at William Blair and spent 20 years at IBM developing AI solutions across supply chain, sales, marketing, finance, procurement, legal, and healthcare.
+
+Selected additional visible entries:
+- Ignas Grabauskas: Data Scientist at Simpson Thacher; the page says his recent work includes LLM applications such as document classification, custom named-entity recognition, and summarization. He holds a BA in Physics from the University of Chicago and is an alumnus of the MS in Applied Data Science program.
+- Batu Gundogdu: Holds a PhD in Electrical Engineering and has 15+ years of deep-learning experience across speech, language, and medical imaging. The page says he teaches Bayesian Machine Learning for Generative AI and Advanced Linear Algebra for Machine Learning.
+- Justin Kurland: Vice President and Tech Fellow at Goldman Sachs with 20+ years in data and analytics, 50+ peer-reviewed publications, and open-source contributions in machine learning and time series forecasting.
+- Jeong-Yoon Lee: Senior Manager in Applied Science at Uber; the page says he leads work in personalization, targeting, optimization, and causal inference for marketing, and is involved with the open-source CausalML project.
+- John Navarro: Adjunct Instructor and CFO at John Burns Construction Company; previously worked at McKinsey, Accenture, and 84.51°. He holds both a BA in Economics and an MS in Applied Data Science from the University of Chicago.
+- Danny Ng: Director of Machine Learning at Expedia Group and Adjunct Lecturer at the University of Chicago. The page says he teaches graduate courses in the MS in Applied Data Science program and earned his PhD in Statistics from the University of Chicago.
+
+Related navigation links visible on the page:
+- Overview
+- In-Person Program
+- Online Program
+- Capstone Projects
+- Capstone Project Archive
+- Course Progressions
+- How to Apply
+- Events & Deadlines
+- Tuition, Fees, & Aid
+- Our Students
+- Faculty, Instructors, Staff
+- FAQs
+- Explore the MS-ADS Campus
+- Career Outcomes
+- Get In Touch
+
+End of parsed text.

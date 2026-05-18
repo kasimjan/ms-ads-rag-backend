@@ -1,0 +1,101 @@
+UChicago DSI — MS in Applied Data Science — How to Apply
+Source: https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/
+
+How to Apply
+
+The application for entrance in 2026 is now open.
+
+Master’s in Applied Data Science Application Requirements
+
+- The application portal for 2026 entrance is open.
+- The In-Person and Online program admits full- and part-time students for entrance in the autumn quarter annually.
+- Only completed applications are sent for committee review.
+- The application portal may close early if the cohort is filled.
+
+Next Application Deadlines
+
+In-Person — Autumn 2026
+- January 26, 2026 — International Application Deadline (requiring visa sponsorship from UChicago) [passed]
+- March 4, 2026 — Second Priority Application Deadline [passed]
+- May 6, 2026 — Third Priority Application Deadline
+- June 23, 2026 — Final Application Deadline
+
+Online — Autumn 2026
+- June 23, 2026 — Final Application Deadline
+
+Important Notes
+- International applicants who require a new visa and did not apply by the January 2026 deadline must plan to apply in the next application cycle for Autumn 2027 entry.
+- Applicants currently studying in the United States on an F-1 visa and transferring their SEVIS record from another U.S. institution may still apply by the remaining application deadlines.
+
+Letters of Recommendation
+- Two letters of recommendation are required.
+- The program strongly recommends that at least one letter be written by a direct manager/supervisor or internship supervisor who can attest to workplace skills such as leadership, teamwork, collaboration, initiative, and management.
+- Letters of recommendation can be uploaded after the application is submitted.
+- Recommended sources: professors, supervisors/managers, professional mentors.
+- Letters from family members, friends, or peers are not accepted.
+
+Candidate Statement
+- The candidate statement is a key part of the application.
+- The application includes a prompt with detailed instructions.
+- Best practices:
+  - Do not restate your resume.
+  - Do not exceed 700 words.
+
+Resume/CV
+- The admissions committee reviews the resume carefully.
+- Important to include:
+  - Work experience, including internships and part-time positions in analytics/data science
+  - Major accomplishments and awards
+  - Educational background, including areas of study
+  - Professional conferences attended
+- Not needed:
+  - Undergraduate or graduate GPA
+
+Programming Supplement
+- The application includes a section on programming skills.
+- Applicants with limited skills in R or Python can still be accepted, but prior programming experience is valued.
+- Submit a PDF of no more than two pages demonstrating current programming language skills.
+- Example: a PDF of work completed in R or Python.
+- The programming supplement must be shared as a PDF file.
+- Example qualities they may look for in code:
+  - Ingest data from csv
+  - Manage different data types
+  - Use your function for data analysis
+  - Visualize data
+  - Wrangle data
+  - Write your own function
+  - Import libraries
+
+Virtual Portfolio
+- Short recorded videos are required within the application.
+- One video prompt response is required; another is optional.
+- Each video should be approximately 1 minute 30 seconds.
+
+International Students
+- Only the full-time, in-person program is visa-eligible.
+- International students may also apply to the online program, which does not require citizenship or permanent resident status and does not provide visa sponsorship.
+
+English Language Requirement
+- Applicants who do not meet the English Language Proficiency criteria must submit proof of English language proficiency.
+- Minimum scores listed on the page:
+  - TOEFL: 102 (prior requirement) or 5 (current requirement; no subscore requirement)
+  - IELTS: 7 (no subscore requirement)
+- Waiver policy is referenced on the University of Chicago Graduate Affairs page.
+
+Transcripts from all previous colleges and universities attended
+- Only unofficial transcripts are required at the application stage.
+- If admitted, official transcripts must be sent.
+- A bachelor’s degree is required to apply.
+- E-transcripts should be sent directly to:
+  applieddatascience-admissions@uchicago.edu
+- If documents cannot be sent electronically, mail them to:
+  The University of Chicago
+  Attention: MS in Applied Data Science Admissions
+  455 N Cityfront Plaza Dr., Suite 2800
+  Chicago, Illinois 60611
+- Mailed documents must arrive in the original, school-sealed envelope or they will be considered unofficial.
+- If the transcript does not show degree conferral information, an attested copy of the degree certificate is also required.
+
+Application Fee
+- $90 non-refundable application fee.
+- For fee waiver questions, refer to the Physical Sciences Division fee waiver policy.

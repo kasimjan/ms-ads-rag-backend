@@ -1,0 +1,124 @@
+University of Chicago Data Science Institute
+Research | DSI
+
+Source:
+https://datascience.uchicago.edu/research/
+
+Page title:
+Research | DSI
+
+Overview:
+Research at the Data Science Institute addresses important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms.
+
+Research Initiatives:
+1. AI + Science
+   - A new paradigm of transformational AI-enabled scientific discovery across the physical and biological sciences, advancing core AI principles and training a new generation of diverse interdisciplinary scientists.
+
+2. Data & Democracy
+   - Research at the intersection of computation and democratic representation.
+   - Focuses on how data science innovations such as better mechanisms, models, and metrics can strengthen democracy.
+
+3. AICE: AI for Climate
+   - A program of the Institute for Climate and Sustainable Growth and DSI.
+   - Aims to accelerate and transform climate research with a focus on both scientific advances and societal impacts.
+
+4. Data Ecology
+   - Studies dataflows and designs interventions to control how data impacts the world.
+
+5. Novel Intelligence
+   - Explores how to train AI models that augment rather than mimic human capacity.
+
+Programs and research-related areas shown in site navigation:
+- Outlier Research & Evaluation
+- Open Spatial Lab
+- Data Science Software Development Core
+- Seed Funding Projects
+- Funding Opportunities
+- Postdoctoral Programs
+- Internet Innovation (listed as a past initiative)
+
+Projects listed on the page:
+- Schmidt AI in Science Speaker Series
+- Developing Artificial Curiosity Algorithms
+- Discovering the Design Rules Linking Protein Sequence to Function
+- Machine Learning Models for Predicting Heart Disease Progression
+- Building Cyberinfrastructure for Rare-Event Searches
+- Using Field-Effect Transistor Array to Monitor Water Quality
+- On-Chip Machine Learning for Intelligent Pixel Detectors
+- Improving Batteries to Combat Climate Change
+- Automating Electron Microscopy with AI
+- Improving Prediction of Breast Cancer Patient Response to Therapy
+- Predicting Material Properties
+- Facebook Messenger Chatbot for Surveys and Intervention Testing
+- Understanding Divergent Interpretations of Political Information
+- Understanding and Auditing Content Moderation Policies
+- Partisan Polarization and Political Dysfunction
+- Examining the Mystery of How Living Organisms Develop
+- Advancing Molecular Measurement with Machine Learning
+- Creating Microbiomes That Improve Human and Environmental Health
+- Interconnection Measurement Project
+- Machine Learning to Improve Targeted Cancer Therapy
+- Advancing the Sociome for Social and Health Equity
+- AI-Driven Tutorials for Radiology Student Training
+- AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants
+- Learned Emulators of Physics Simulations
+- Real-Time Adaptive Deep Learning for Discovery Science
+- Artificially Intelligent Electrochemistry
+- Health Monitoring Based on Wearable Sweat Sensors
+- Automated Prostate Cancer Detection Using MRI and Deep Learning
+- Deciphering Cuneiform with Artificial Intelligence
+- Measuring Messages About Race and Gender in Children’s Books
+- Learning How To Measure Scientific Images
+- Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions
+- Machine Learning and Satellite Imaging to Reduce Methane Emissions
+- Disentangling Visual Style and Content
+- A Data-Driven Trigger System for the Large Hadron Collider
+- Automated Experimental Design for Cosmic Discovery
+- Is Climate Change Changing Clouds?
+- Neural Network Algorithms to Decode the Octopus Neural Network
+- Clinical Behavior Analysis via Unsupervised Learning
+- Identifying Optimal Skill and Relationship Mixtures
+- A Data Processing Pipeline for Police Communications
+- Racial Inequality in Financial Resilience
+- Mobile Decision-Making for Doctors Without Internet
+- N-body Networks for Jet Physics at the Energy Frontier
+- Rational Protein Engineering using Data-Driven Generative Models
+- The Role of Rapid Bacterial Evolution in Human Health and Disease
+- Quantifying Social Determinants of Cardiovascular Disease
+- Exploring Climate and Biodiversity with 3D Deep Learning
+
+Upcoming events shown on the page:
+- Apr 21, 2026 — Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation
+- Apr 21, 2026 — Emma Liu (UChicago): Schmidt AI in Science Speaker Series
+- Apr 21, 2026 — Info Session – MS in Applied Data Science (In-Person Program)
+- Apr 22, 2026 — Chicago Data Night: Milan McGraw (Amazon Web Services)
+- Apr 28, 2026 — Jorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series
+
+Latest news / insights / past events shown on the page:
+- Apr 14, 2026 — University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups
+- Apr 14, 2026 — University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant
+- Apr 14, 2026 — University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner
+- Apr 13, 2026 — For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence
+- Apr 08, 2026 — From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI
+- Apr 03, 2026 — What If AI Scientists Could Talk to Each Other?
+- Apr 02, 2026 — UChicago Researchers Build a Tool to Help Fix Peer Review
+- Apr 20, 2026 — Ask A Student in MS in Applied Data Science
+- Mar 31, 2026 — Madeleine Torcasso (UChicago): Schmidt AI in Science Speaker Series
+- Mar 23, 2026 — Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects
+
+Opportunities:
+The page says DSI offers several programs for academic researchers, companies, non-profits, government bodies, and students to form collaborations with DSI research initiatives.
+
+Opportunity links shown:
+- Research Funding
+- Postdoctoral Programs
+- Industry Affiliates Program
+- Data Science Clinic
+
+Contact details in footer:
+Data Science Institute
+5460 S University Ave
+Chicago, IL 60615
+data-science@uchicago.edu
+
+End of parsed text.

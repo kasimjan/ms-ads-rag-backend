@@ -1,0 +1,198 @@
+University of Chicago Data Science Institute
+MS in Applied Data Science — Online Program
+
+Source:
+https://datascience.uchicago.edu/education/masters-programs/online-program/
+
+Page title:
+Online Program | DSI
+
+Program overview:
+The Online MS in Applied Data Science program is an online data science master’s degree designed to align with the demands of working professionals while maintaining live, interactive coursework.
+
+Academic format:
+- Structured online learning experience
+- Live classes designed for working professionals
+- Available full-time or part-time
+- Full-time and part-time students begin in Autumn quarter
+- Students benefit from the same faculty, peer group, and academic rigor as the in-person program
+
+Program leadership:
+- Online Program Director: Arnab Bose, PhD
+
+Career and support:
+The page emphasizes rigorous classes, expert instructors, leading-edge technology, and a strong professional network.
+Students have access to:
+- a full-service team dedicated to the MS in Applied Data Science program
+- tailored in-house career services
+- academic advising
+- networking opportunities in person and virtually
+- student affairs, career services, and instructional services support
+
+Student experience:
+The Online program is described as supportive for students who may also be working full-time.
+Staff leading the online program have backgrounds in instructional design and best practices for online learning.
+
+Alumni access:
+Online students have access to program alumni through:
+- Immersion Weekend events
+- virtual career services programs
+
+Graduates also join the broader:
+- Physical Sciences Division alumni network
+- UChicago alumni network
+
+Schedule and delivery format:
+The online format combines:
+- live synchronous classes
+- structured asynchronous coursework
+
+Synchronous classes:
+- Weekly real-time classes with instructors and peers
+- Scheduled on weekday evenings at 6:00 PM CT
+- Occasional Saturdays at 9:00 AM CT
+- Students admitted into the online program are expected to attend the live sessions
+
+Asynchronous coursework:
+- Lecture videos
+- Readings
+- Discussions
+- Project work
+- Group collaboration
+- Assignments completed around personal and professional commitments
+
+In-person Immersion Weekend:
+Students have the opportunity to attend an in-person Immersion Weekend in Chicago in the Autumn quarter.
+
+Immersion Weekend activities may include:
+- networking with industry leaders and alumni
+- meeting faculty and classmates
+- connecting with peers from across the country
+- participating in interactive sessions focused on industry solutions
+- gaining career insights and discussing AI/ML trends and challenges
+- hearing from students about Capstone Projects
+- touring the Data Science Institute
+
+Future Immersion Weekend dates listed on the page:
+- Thursday, September 24 – Saturday, September 26
+  - Thursday: Evening Welcome and Social
+  - Friday: Full Day Program TBA
+  - Saturday: Full Day Program TBA
+
+International student note for immersion weekend:
+If students are traveling from outside the U.S. for Immersion Weekend, the page advises that they are encouraged to come in visitor/tourist status, using:
+- B-1/B-2 visa
+- or ESTA clearance, depending on citizenship / visa waiver eligibility
+
+The page notes that:
+- immersion days are optional
+- they do not carry course enrollment
+- students should be clear at entry that the visit is not for credit-bearing classes but for meeting classmates and participating as a visitor
+
+Curriculum structure:
+Students complete:
+- 12 courses total
+  - 6 core courses
+  - 4 elective courses
+  - 2 Capstone courses
+- a tailored Career Seminar (required, noncredit)
+
+Program pacing:
+- Part-time students enroll in 2 courses per quarter and usually take classes in the evenings or on Saturdays
+- Full-time students take 3 courses per quarter
+- Some full-time courses may be offered during the day
+
+Curriculum philosophy:
+The curriculum is described as rigorous and reviewed annually to keep pace with the evolving data science landscape.
+
+Foundational courses (noncredit, optional):
+Foundational courses are designed and taught by MS in Applied Data Science faculty and instructors.
+They are available at no additional cost.
+
+Required assessment:
+- Beginning in academic year 2024–25, all entering students complete a required online Foundational Skills Assessment
+- Students may opt out of taking the assessment by registering for all four Foundational courses instead
+
+Timing of foundational courses:
+- Introduction to Statistical Concepts and R are pre-quarter courses during the 5 weeks leading up to the first quarter
+- Python for Data Science runs during the first five weeks of the first quarter
+- Advanced Linear Algebra for Machine Learning runs during the second five weeks of the first quarter
+- All Foundational courses are completed virtually for both In-Person and Online students
+
+Foundational course list:
+1. Introduction to Statistical Concepts
+   - optional
+   - 0 units
+   - no cost
+2. R for Data Science
+   - optional
+   - 0 units
+   - no cost
+3. Python for Data Science
+   - optional
+   - 0 units
+   - no cost
+4. Advanced Linear Algebra for Machine Learning
+   - optional
+   - 0 units
+   - no cost
+
+Career Seminar (required, noncredit):
+The multi-quarter Career Seminar supports development of:
+- industry professional skills
+- job and internship search skills
+- communication and other employer-valued competencies
+
+The page notes:
+- students enroll in the Career Seminar each quarter
+- it is Pass/Fail
+- it costs nothing and carries 0 units
+- students with significant, relevant full-time work experience may be eligible to waive this requirement
+
+Core courses (6):
+1. Time Series Analysis and Forecasting
+2. Statistical Models for Data Science
+3. Machine Learning I
+4. Machine Learning II
+5. Data Engineering Platforms for Analytics
+   or Big Data and Cloud Computing
+6. Leadership and Consulting for Data Science
+
+Capstone (2):
+The required Capstone Project:
+- is completed over 2 quarters
+- covers research design, implementation, and writing
+- starts in the third quarter for full-time students
+- generally starts two quarters before graduation for part-time students
+- may be industry-focused or research-focused
+
+Additional core/capstone wording shown later on the page:
+- Full-time students start the capstone in their third quarter
+- Part-time students generally begin the capstone in their fifth quarter
+
+Electives:
+Students complete 4 required elective courses.
+The page says electives are continually updated.
+
+Past/sample electives listed on the page include:
+- Advanced Computer Vision with Deep Learning
+- Advanced Machine Learning and Artificial Intelligence
+- Bayesian Machine Learning with Generative AI Applications
+- Data Science for Algorithmic Marketing
+- Data Visualization Techniques
+- Digital Marketing Analytics in Theory and Practice
+- Quantitative Finance: Methods and Applications
+- Data Science for Healthcare
+- Machine Learning Operations
+- Next-Gen NLP: LLM and Agentic AI in Practice
+- Real Time Intelligent Systems
+- Deep Reinforcement Learning
+- Supply Chain Optimization
+
+Additional resources linked on the page:
+- Upcoming Events & Deadlines
+- FAQs
+- Tuition, Fees, & Aid
+- Connect with Us
+
+End of parsed text.

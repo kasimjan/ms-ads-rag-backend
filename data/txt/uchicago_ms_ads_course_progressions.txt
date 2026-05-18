@@ -1,0 +1,284 @@
+University of Chicago Data Science Institute
+MS in Applied Data Science — Course Progressions
+
+Source:
+https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/
+
+Page title:
+Course Progressions | DSI
+
+Overview:
+The page provides an interactive sample course schedule for the In-Person and Online MS in Applied Data Science program offerings.
+
+Flexible formats:
+- Full-time and part-time options are available in both the Online and In-Person formats.
+- Full-time students take 3 classes per quarter (300 units).
+- Part-time students take 2 classes per quarter (200 units).
+- A sample schedule for the MBA/MS is available on the Booth website.
+- Course offerings are subject to change.
+- The Career Seminar is Pass/Fail and required for all students unless eligible to waive.
+- There is no tuition or fees for the Career Seminar.
+- Optional Foundational noncredit courses are available at no additional cost.
+
+Curriculum details:
+The page states that the MS in Applied Data Science program has two curriculum pathways:
+1. 12-course program
+2. 18-course thesis track
+
+Both pathways include:
+- core courses
+- electives
+- a multi-quarter Capstone Project
+- a required Career Seminar
+
+Additional thesis-track element:
+- The 18-course program includes additional electives and a thesis requirement.
+
+Foundational courses (optional, noncredit):
+- Designed and taught by MS in Applied Data Science faculty and instructors
+- Available at no additional cost
+- Beginning in academic year 2024-25, all entering students complete a required online Foundational Skills Assessment
+- Students may opt out of the assessment by registering for all four Foundational courses
+- Introduction to Statistical Concepts and R are pre-quarter courses held during the 5 weeks leading up to the first quarter
+- All Foundational courses are completed virtually for all students, regardless of In-Person or Online enrollment
+
+Foundational course list:
+1. Introduction to Statistical Concepts
+2. R for Data Science
+3. Python for Data Science
+4. Advanced Linear Algebra for Machine Learning
+
+Career Seminar (required, noncredit):
+- A multi-quarter seminar focused on communication, collaboration, and ethical problem-solving
+- Students with 3+ years of relevant full-time work experience may petition for a waiver
+- 0 units, no cost
+
+Core courses:
+All students complete 6 core courses:
+1. Statistical Models for Data Science
+2. Leadership and Consulting for Data Science
+3. Data Engineering Platforms for Analytics or Big Data and Cloud Computing
+4. Machine Learning I
+5. Time Series Analysis and Forecasting
+6. Machine Learning II
+
+Elective courses:
+- Students in the 12-course track complete 4 electives
+- Students in the 18-course thesis track complete 8 electives and 2 independent study courses
+- Past electives listed on the page include:
+  - Generative AI Principles
+  - Advanced Computer Vision with Deep Learning
+  - Advanced Machine Learning and Artificial Intelligence
+  - Bayesian Machine Learning with GenAI Applications
+  - Data Science for Algorithmic Marketing
+  - Data Visualization Techniques
+  - Digital Marketing Analytics in Theory and Practice
+  - Financial Analytics / Quantitative Finance
+  - Health Analytics
+  - Machine Learning Operations
+  - Natural Language Processing and Cognitive Computing
+  - Real Time Intelligent Systems
+  - Reinforcement Learning
+  - Supply Chain Optimization
+
+Capstone project:
+- Required 2-quarter Capstone Project
+- Students work in teams on a real industry or research problem
+- Full-time students typically begin Capstone in their third quarter
+- Part-time students begin two quarters before graduation
+
+------------------------------------------------------------
+SAMPLE FULL-TIME SCHEDULE
+------------------------------------------------------------
+
+Prequarter (5 Weeks)
+Optional Foundational:
+- Introduction to Statistical Concepts
+- R for Data Science
+
+Quarter 1 (10 Weeks)
+Optional Foundational:
+- Python for Data Science
+- Advanced Linear Algebra for Machine Learning
+
+Core:
+- Statistical Models for Data Science
+- Leadership and Consulting for Data Science
+- Data Engineering Platforms for Analytics or Big Data and Cloud Computing
+
+Seminar:
+- Career Seminar
+
+Quarter 2 (10 Weeks)
+Core:
+- Machine Learning I
+- Time Series Analysis and Forecasting
+
+Elective:
+- Elective 1
+
+Seminar:
+- Career Seminar
+
+Quarter 3 (10 Weeks)
+Core:
+- Machine Learning II
+
+Elective:
+- Elective 2
+
+Capstone:
+- Data Science Capstone Project
+
+Seminar:
+- Career Seminar
+
+Quarter 4 (10 Weeks)
+Electives:
+- Elective 3
+- Elective 4
+
+Capstone:
+- Data Science Capstone Project
+
+Seminar:
+- Career Seminar
+
+------------------------------------------------------------
+SAMPLE PART-TIME SCHEDULE
+------------------------------------------------------------
+
+Prequarter (5 Weeks)
+Optional Foundational:
+- Introduction to Statistical Concepts
+- R for Data Science
+
+Quarter 1 (10 Weeks)
+Optional Foundational:
+- Python for Data Science
+- Advanced Linear Algebra for Machine Learning
+
+Core:
+- Statistical Models for Data Science
+- Data Engineering Platforms for Analytics or Big Data and Cloud Computing
+
+Quarter 2 (10 Weeks)
+Core:
+- Machine Learning I
+- Time Series Analysis and Forecasting
+
+Quarter 3 (10 Weeks)
+Core:
+- Machine Learning II
+- Leadership and Consulting for Data Science
+
+Quarter 4 (10 Weeks)
+Electives:
+- Elective 1
+- Elective 2
+
+Quarter 5 (10 Weeks)
+Capstone:
+- Data Science Capstone Project
+
+Elective:
+- Elective 3
+
+Quarter 6 (10 Weeks)
+Capstone:
+- Data Science Capstone Project
+
+Elective:
+- Elective 4
+
+------------------------------------------------------------
+SAMPLE 2-YEAR FULL-TIME THESIS-TRACK SCHEDULE
+------------------------------------------------------------
+
+Prequarter (5 Weeks)
+Optional Foundational:
+- Introduction to Statistical Concepts
+- R for Data Science
+
+Quarter 1 (10 Weeks)
+Optional Foundational:
+- Python for Data Science
+- Advanced Linear Algebra for Machine Learning
+
+Core:
+- Statistical Models for Data Science
+- Data Engineering Platforms for Analytics or Big Data and Cloud Computing
+- Leadership and Consulting for Data Science
+
+Seminar:
+- Career Seminar
+
+Quarter 2 (10 Weeks)
+Core:
+- Machine Learning I
+- Time Series Analysis and Forecasting
+
+Elective:
+- Elective 1
+
+Seminar:
+- Career Seminar
+
+Quarter 3 (10 Weeks)
+Core:
+- Machine Learning II
+
+Elective:
+- Elective 2
+
+Capstone:
+- Data Science Capstone Project
+
+Seminar:
+- Career Seminar
+
+Quarter 4 (10 Weeks)
+Electives:
+- Elective 3
+- Elective 4
+
+Capstone:
+- Data Science Capstone Project
+
+Seminar:
+- Career Seminar
+
+Quarter 5 (10 Weeks)
+Electives:
+- Elective 5
+- Elective 6
+
+Independent Study:
+- Thesis Course I
+
+Seminar:
+- Career Seminar
+
+Quarter 6 (10 Weeks)
+Electives:
+- Elective 7
+- Elective 8
+
+Independent Study:
+- Thesis Course II
+
+Seminar:
+- Career Seminar
+
+Thesis details:
+- The required thesis for the 2-year thesis-track program is completed over 2 ten-week quarters
+- It results in a written thesis
+- Full-time, in-person students admitted to the 2-year thesis track complete the thesis during two 100-unit courses in winter and spring quarter of year 2
+
+Visible contact details in footer:
+Data Science Institute
+5460 S University Ave
+Chicago, IL 60615
+data-science@uchicago.edu
+
+End of parsed text.

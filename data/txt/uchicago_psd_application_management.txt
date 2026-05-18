@@ -1,0 +1,58 @@
+The University of Chicago: Graduate Studies
+Application Management
+
+Welcome! Thank you for your interest in applying to a graduate program in the Physical Sciences Division of the University of Chicago. Through this site, you can apply to the following degree programs:
+
+- Astronomy and Astrophysics (PhD)
+- Biophysical Sciences (PhD)
+- Chemistry (MS)
+- Chemistry (PhD)
+- Computational and Applied Mathematics (MS)
+- Computational and Applied Mathematics (PhD)
+- Computer Science (PhD)
+- Data Science (MS)
+- Data Science (PhD)
+- Environmental Science (MS)
+- Financial Mathematics (MS)
+- Geophysical Sciences (PhD)
+- Masters Program in Computer Science (MS)
+- Master of Science in Applied Data Science (Full-Time)
+- Master of Science in Applied Data Science (Part-Time)
+- Mathematics (PhD)
+- Physics (PhD)
+- Statistics (MS)
+- Statistics (PhD)
+
+Application instructions:
+- Use the “Start New Application” / “Create an account” link to begin a new application.
+- If you plan to apply to more than one program, begin a separate application for each program.
+- If you have questions about your application, contact the specific program you are applying to.
+- Program contact information is available on the Graduate Admissions website.
+
+Non-Degree Visiting Student Status (NDVS):
+- NDVS is available to advanced graduate and undergraduate students pursuing a degree at another institution who have been invited by a University of Chicago faculty member to temporarily work on that faculty member’s research project.
+- This status also applies to undergraduate students participating in summer research opportunities such as the PKU-CCME exchange program or other research experiences for undergraduates (REUs).
+- Questions about NDVS status may be directed to Aleksandra Ninova-Parris at aninovaparris@uchicago.edu
+
+Toyota Technological Institute at Chicago (TTIC):
+- TTIC students participating in research or University of Chicago courses should complete a non-degree application on this site to establish a student record with the University of Chicago.
+
+Data use / privacy:
+- Application data may be used to render admissions decisions, for internal and external reporting, institutional research, and other purposes.
+- Applicants are directed to review the University Privacy Notice for more information.
+
+Returning users:
+- Log in to continue an application.
+
+First-time users:
+- Create an account to start a new application.
+
+Site footer / links:
+- Graduate Admissions
+- Privacy Notice
+- Contact Us
+- Technical Support
+- Non-discrimination Statement
+
+Source:
+https://apply-psd.uchicago.edu/apply/

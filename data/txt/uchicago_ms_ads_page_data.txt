@@ -1,0 +1,236 @@
+Master's in Applied Data Science | DSI
+Source: https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/
+
+Skip to main content
+
+About
+About the Data Science Institute
+The Data Science Institute (DSI) executes the University of Chicago’s bold, innovative vision of Data Science as a new discipline.
+
+Jobs & Opportunities
+Open faculty, postdoctoral, staff, and student roles with the UChicago Data Science Institute and our partners.
+
+Visiting DSI @ UChicago
+Contact
+
+Education
+Academic Programs
+
+Undergraduate Data Science Major
+A curriculum combining computational and analytical skills, domain knowledge, communication skills, and ethics.
+
+Master's Programs
+Degree-granting programs in computational analysis and public policy and applied data science.
+
+PhD Program
+Combining training in mathematical foundations of data science, responsible data use, and advanced computational methods.
+
+Other Programs
+
+Data Science Clinic
+An experiential project-based course where students work in teams with real-world clients from industry, academia, and social impact organizations.
+
+Summer Research Programs
+Summer research opportunities for undergraduate students in an immersive, interdisciplinary environment.
+
+Preceptors in Data Science
+A partnership between the University of Chicago and City Colleges of Chicago to train the next generation of data science educators.
+
+Research
+Initiatives
+
+AI + Science
+A new paradigm of transformational AI-enabled scientific discovery across the physical and biological sciences.
+
+Data & Democracy
+Protecting democracy in the digital age through cross-disciplinary research and convening key stakeholders.
+
+AICE: AI for Climate
+Inter-discplinary integration of AI with fundamental domain knowledge to accelerate and transform climate research with a focus on both scientific advances and societal impacts.
+
+Data Ecology
+The goal of data ecology is to study dataflows and design interventions to control how data impacts our world.
+
+Novel Intelligence
+Exploring how to train AI models that augment rather than mimic human capacity.
+
+Programs
+
+Outlier Research & Evaluation
+A team committed to bringing equity to education with a focus on learners of all ages from groups historically underrepresented in STEM.
+
+Open Spatial Lab
+Creating open source tools and analyses to solve problems using geospatial data science.
+
+Data Science Software Development Core
+Providing software development and data science services across the University.
+
+Seed Funding Projects
+Early-stage, interdisciplinary research funded and supported by the Data Science Institute.
+
+Funding Opportunities
+Open calls for funding for early-stage, transformative data science research.
+
+Postdoctoral Programs
+Unique opportunities for early-career scientists who wish to advance cutting-edge data science approaches, methods, and applications in research.
+
+Past Initiatives
+Internet Innovation
+Measuring and analyzing Internet performance and reliability to address inequity in U.S. communities.
+
+Partnerships
+
+Industry Partnerships
+Connecting industry partners to groundbreaking data science research, emerging technologies, and talent acquisition opportunities at UChicago.
+
+11th Hour Project Software and Data Hub
+Software and data science for grantees of the 11th Hour Project, which serves nonprofits in energy, food and agriculture, human rights, and marine technology.
+
+Community Data Fellows
+Pairing students with local community organizations to leverage data and technology in service of their mission.
+
+Data Science for Social Impact Network
+A consortium of diverse higher education partners to broaden STEM participation and amplify social impact through data science.
+
+Data4All High School Workshop
+A program introducing Chicago high schoolers to data science and inspiring them to consider career pathways in data science and AI.
+
+AI+Science Summer School
+The goal of this yearly program is to introduce a new generation of diverse interdisciplinary graduate students and researchers to the emerging field of AI+Science.
+
+People
+Faculty, Leadership, & Staff
+Research Advisory Committee
+Affiliated Faculty
+Postdoctoral Scholars
+
+News & Events
+News
+From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI
+Inclusive Development International Expands “Follow the Money” Toolkit
+Distinguished Speaker Series 2025-26
+
+Insights
+What If AI Scientists Could Talk to Each Other?
+UChicago Researchers Build a Tool to Help Fix Peer Review
+Could AI Help Us Be More Thoughtful Voters?
+
+Events
+Apr 14 AI+Science Hackathon
+Apr 14 Ramon Nogueira (UChicago): Schmidt AI in Science Speaker Series
+Apr 16 OpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy
+
+Search Site
+To search this site, enter a search term
+
+Elevate Your Expertise in Data Science
+The University of Chicago’s MS in Applied Data Science program equips you with in-demand expertise and an unparalleled network of global alumni. Take the next step and start your application today.
+
+How to Apply
+
+Programs
+Choose from full- and part-time options in our In-Person and Online programs. Apply today!
+
+In-Person Program
+The In-Person program, ideal for early career professionals, now includes a 2-year full-time option starting Autumn 2026—alongside the existing 12–15 month track for full- and part-time students.
+
+Learn More
+
+Online Program
+The same rigorous curriculum, faculty, and network as the in-person degree. Designed for working professionals with 2+ years of full-time experience.
+
+Learn More
+
+MBA/MS Program
+Differentiate yourself with a competitive joint degree with UChicago's Booth School of Business. Apply through Booth's admissions process.
+
+Learn More
+
+Apply Today!
+The application for entry is open! Prospective Online and In-Person students can apply by June 23, 2026, for full- and part-time study for Autumn 2026 entry. Start your application here.
+
+How to Apply
+You have questions; we have answers. Whether you are just beginning your search or are ready to apply, we are here to help you take the next step.
+
+Industry Leading Faculty
+UChicago’s Master’s in Applied Data Science program recruits industry leaders from across the country. Meet our instructors and learn how they are shaping the landscape of data science.
+
+Data in Action - Capstone Projects
+Whether you are early in your career or more advanced, you will benefit from our real-world Capstone Experience. You will have the opportunity to help top companies across multiple sectors to solve real business problems. Sample Capstone Projects.
+
+How UChicago’s MS in Applied Data Science Prepares Future Innovators
+Learn how the University of Chicago’s MS in Applied Data Science equips students with strong foundations in machine learning, real-world problem solving, and communication. Current students and alumni share how the curriculum prepares graduates to translate data into meaningful, real-world impact.
+
+Start Your Application
+The application to be considered for Autumn 2026 enrollment is now open! The final application deadline for full- and part-time entrance in Autumn 2026 is June 23, 2026.
+
+The In-Person Program and the Online Program admit full- and part-time students for entrance in the autumn quarter.
+
+FAQs
+
+Related News, Insights, and Past Events
+Applied Data Science Apr 13, 2026
+For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence
+
+DSI News Apr 08, 2026
+From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI
+
+Data & Software Apr 03, 2026
+What If AI Scientists Could Talk to Each Other?
+
+Data & Software Apr 02, 2026
+UChicago Researchers Build a Tool to Help Fix Peer Review
+
+Mar 31 Past Event Mar 31, 2026
+Madeleine Torcasso (UChicago): Schmidt AI in Science Speaker Series
+
+Applied Data Science Mar 23, 2026
+Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects
+
+Mar 18 Past Event Mar 18, 2026
+MS in Applied Data Science – Information Session (Online Program)
+
+Blog Mar 17, 2026
+Could AI Help Us Be More Thoughtful Voters?
+
+Apr 1 Past Event Apr 01, 2026
+Abel Kho (Northwestern University): Biomedical Data Science Colloquium
+
+Campus News Mar 12, 2026
+Michael Franklin Named Deputy Dean for Computational and Mathematical Sciences
+
+DSI
+Data Science Institute
+5460 S University Ave
+Chicago IL 60615
+data-science@uchicago.edu
+
+© 2026 University of Chicago
+
+Footer Links
+About
+People
+Research
+Education
+Outreach
+News
+Events
+Jobs
+Newsletter Archive
+Physical Sciences Division
+Nondiscrimination Statement
+Accessibility
+Contact
+
+Get Updated
+Newsletter Signup
+Email
+
+Follow
+x.com
+bsky.app
+www.linkedin.com
+www.youtube.com
+github.com
+instagram.com
+www.tiktok.com

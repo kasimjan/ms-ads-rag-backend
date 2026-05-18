@@ -1,0 +1,231 @@
+University of Chicago Booth
+MBA/MS in Applied Data Science Joint Degree
+
+Source:
+https://www.chicagobooth.edu/mba/joint-degree/mba-ms-applied-data-science?sc_lang=en
+
+Page title:
+MBA/MS in Applied Data Science | The University of Chicago Booth School of Business
+
+Program overview:
+The MBA/MS in Applied Data Science is a joint degree at the intersection of business and technology.
+The page says the program combines resources from:
+- Chicago Booth
+- the Data Science Institute
+- the Physical Sciences Division
+
+It is designed for students who want preparation across:
+- data-driven business leadership
+- analytics
+- AI / machine learning
+- management in data-centric environments
+
+Format:
+- Booth courses are in person
+- MS in Applied Data Science courses are available online and in person
+- In-person MS courses are held at NBC Tower in downtown Chicago
+- The page says most students complete both degrees in 7 quarters, the same time it takes to earn the MBA alone
+
+Program structure:
+Students complete the equivalent of 23 100-unit courses, including:
+- 14 MBA classes
+- 9 data science courses
+- LEAD (Leadership Effectiveness and Development)
+- Qualified Work Experience (noncredit professional internship experience)
+
+Course progression shown on the page:
+
+Pre-Quarter (before Autumn)
+Applied Data Science:
+- Optional foundational course: Introduction to Statistical Analysis
+- Optional foundational course: R for Data Science
+
+Quarter 1 (Autumn)
+Booth:
+- 200 units
+- LEAD
+Applied Data Science:
+- Statistical Models
+- Foundational courses (optional): Python for Data Science (first half) and Advanced Linear Algebra (second half)
+
+Quarter 2 (Winter)
+Booth:
+- 100 units
+Applied Data Science:
+- Machine Learning I
+- Time Series Analysis and Forecasting
+
+Quarter 3 (Spring)
+Booth:
+- 200 units
+Applied Data Science:
+- Data Engineering Platforms
+- Machine Learning II
+
+Quarter 4 (Summer)
+Booth:
+- Internship
+Applied Data Science:
+- Elective 1
+
+Quarter 5 (Autumn)
+Booth:
+- 300 units
+Applied Data Science:
+- Elective 2
+
+Quarter 6 (Winter)
+Booth:
+- 300 units
+Applied Data Science:
+- Capstone Experience
+
+Quarter 7 (Spring)
+Booth:
+- 300 units
+Applied Data Science:
+- Elective 3
+
+Notes on progression:
+- Foundational courses are marked optional
+- Students may substitute one MS elective for a Booth course
+
+Career paths:
+The page says students receive:
+- personal career coaching
+- leadership development
+- on-campus recruiting
+
+Example employers named on the page:
+- Apple
+- Google
+- Nike
+- Cardinal Health
+- IBM
+
+Example roles listed:
+- Data Scientist
+- Data Engineer
+- Data Science Analyst
+- Senior Data Science Analyst
+- Machine Learning Scientist
+- AI/ML Specialist
+- Senior Data Science Product Manager
+- Data Science Consultant
+- AI Research Scientist
+- AI and Advanced Analytics Specialist
+- Director, Product Marketing
+- Senior Health Data Science Manager
+- Financial Data Science Director
+- AI and Data Science Governance Manager
+- Business Intelligence / Data Visualization Developer
+- AI/ML Solution Architect
+
+Tuition:
+- Tuition is assessed through Chicago Booth at a flat rate for six quarters of enrollment
+- Pricing differs from Booth’s standard Full-Time MBA program
+- Final tuition amounts are made available in the spring
+- Students taking more than 2300 units are assessed for additional units
+
+MS in Applied Data Science coursework:
+
+Core courses (5 required):
+1. Statistical Models for Data Science
+2. Machine Learning I
+3. Machine Learning II
+4. Data Engineering Platforms for Analytics
+5. Time Series Analysis and Forecasting
+
+Elective courses (3 required):
+Sample electives listed:
+- Advanced Computer Vision with Deep Learning
+- Advanced Machine Learning and Artificial Intelligence
+- Bayesian Methods
+- Data Science for Algorithmic Marketing
+- Data Visualization Techniques
+- Digital Marketing Analytics in Theory and Practice
+- Financial Analytics
+- Health Analytics
+- Machine Learning Operations
+- Natural Language Processing and Cognitive Computing
+- Reinforcement Learning
+- Supply Chain Optimization
+
+Elective substitution rule:
+- One of the three required MS electives may be substituted with a Booth elective
+
+Capstone project (1 required):
+- Research-focused capstone project designed for the joint degree
+- Completed in a small group
+- Done with a real client
+- Project sectors may include finance, entertainment, automotive, and others
+
+Booth coursework:
+
+LEAD:
+Leadership Effectiveness and Development is required for all Full-Time MBA students in Autumn quarter of the first year and focuses on:
+- self-awareness
+- teamwork
+- influence
+- conflict management
+- interpersonal communication
+- presentation skills
+- leadership development planning
+
+Foundation requirements / select-one categories:
+
+Financial Accounting (select one):
+- Financial Accounting
+- Accounting & Financial Analysis I
+- Accounting & Financial Analysis II
+- Financial Statement Analysis
+
+Microeconomics (select one):
+- Microeconomics
+- Advanced Microeconomic Analysis
+- Accelerated Microeconomics
+- Topics in Microeconomics Theory
+
+Statistics (select one):
+- Business Statistics
+- Applied Regression Analysis
+- Analysis of Financial Time Series
+- Financial Econometrics
+- Statistical Insight into Marketing, Consulting, and Entrepreneurship
+- Data Mining
+- or any PhD-level statistics
+
+Statistics note:
+- Students are encouraged to take Applied Regression Analysis to complete the statistics foundation requirement
+- It is not required
+- Students who do not take 41100 may waive the statistics foundation requirement and instead take 100 additional units of Booth electives
+
+Additional Booth coursework:
+- Functions, Leadership & Management, and the Business Environment: 700 course units
+- Electives: 400 course units, or 500 if the statistics foundation requirement is waived
+
+Admissions process:
+Applicants apply through Booth’s centralized joint-application process.
+
+Application instructions on the page:
+- Complete the Chicago Booth Full-Time MBA application
+- Select the MBA/MS in Applied Data Science as the program of interest
+- Complete the MBA/MS program supplement within the Booth application
+- For full consideration, both the MBA application and the joint degree supplement must be completed in the same application round before submission
+
+Testing:
+- GMAT or GRE is required for the joint program
+- International applicants may be required to submit proof of English proficiency
+
+English proficiency minimums listed:
+- TOEFL iBT: 104 minimum
+- IELTS: 7 minimum
+
+Eligibility:
+- Students must be admitted to and begin both joint programs in the same academic year
+- Students who have already started either the MS or the MBA are not eligible for the joint degree
+
+FAQ section:
+The page includes a Frequently Asked Questions section for the MBA/MS in Applied Data Science joint degree program.
+
+End of parsed text.
