@@ -12,11 +12,11 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from openai import OpenAI
 
 
-# Project paths.
-# Put your .txt files in: data/txt/
 BASE_PATH = Path(__file__).resolve().parent
 DATA_DIR = Path(os.getenv("DATA_DIR", BASE_PATH / "data" / "txt"))
 PERSIST_DIR = Path(os.getenv("PERSIST_DIR", BASE_PATH / "chromadb_genai_midterm"))
+
+URL_JSON_PATH = Path(os.getenv("URL_JSON_PATH", BASE_PATH / "txt_to_url.json"))
 
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "genai_midterm_chunks")
 EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-MiniLM-L6-v2")
@@ -35,58 +35,78 @@ def clean_text(text: str) -> str:
 def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> List[str]:
     chunks = []
     start = 0
+
     while start < len(text):
         end = start + chunk_size
         chunks.append(text[start:end])
+
         if end >= len(text):
             break
+
         start = end - overlap
+
     return chunks
 
 
+def load_url_mapping() -> Dict[str, str]:
+    if not URL_JSON_PATH.exists():
+        raise FileNotFoundError(f"URL mapping file not found: {URL_JSON_PATH}")
+
+    with URL_JSON_PATH.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def get_source_url(file_path: str, url_mapping: Dict[str, str]) -> str:
+    file_name = Path(file_path).name
+    return url_mapping.get(file_name, "")
+
 def load_txt_files() -> Dict[str, str]:
-    txt_files = sorted(DATA_DIR.rglob("*.txt"))
+    url_mapping = load_url_mapping()
+
+    txt_files = [
+        p for p in sorted(DATA_DIR.rglob("*.txt"))
+        if p.name in url_mapping
+    ]
+
     if not txt_files:
         raise FileNotFoundError(
-            f"No .txt files found in {DATA_DIR}. "
-            "Copy your MS ADS .txt files from Google Drive into data/txt/ before running."
+            f"No matching .txt files found in {DATA_DIR}. "
+            "Make sure txt filenames exist in txt_to_url.json."
         )
 
-    all_texts: Dict[str, str] = {}
+    all_texts = {}
+
     for file_path in txt_files:
         try:
             all_texts[str(file_path)] = file_path.read_text(encoding="utf-8")
         except UnicodeDecodeError:
             all_texts[str(file_path)] = file_path.read_text(encoding="latin-1")
+
     return all_texts
 
 
 def build_chunks() -> List[Dict[str, Any]]:
     all_texts = load_txt_files()
-
-    cleaned_docs = []
-    for idx, (source, text) in enumerate(all_texts.items()):
-        cleaned_docs.append(
-            {
-                "doc_id": idx,
-                "source": source,
-                "text": clean_text(text),
-            }
-        )
+    url_mapping = load_url_mapping()
 
     all_chunks = []
-    for row in cleaned_docs:
-        pieces = chunk_text(row["text"])
+
+    for doc_id, (source_path, text) in enumerate(all_texts.items()):
+        cleaned_text = clean_text(text)
+        source_url = get_source_url(source_path, url_mapping)
+
+        pieces = chunk_text(cleaned_text)
+
         for chunk_id, piece in enumerate(pieces):
-            all_chunks.append(
-                {
-                    "doc_id": int(row["doc_id"]),
-                    "source": row["source"],
-                    "chunk_id": int(chunk_id),
-                    "char_count": int(len(piece)),
-                    "text": piece,
-                }
-            )
+            all_chunks.append({
+                "doc_id": int(doc_id),
+                "source_path": source_path,
+                "source_url": source_url,
+                "chunk_id": int(chunk_id),
+                "char_count": int(len(piece)),
+                "text": piece,
+            })
+
     return all_chunks
 
 
@@ -94,6 +114,7 @@ def get_chroma_collection():
     PERSIST_DIR.mkdir(parents=True, exist_ok=True)
 
     client = chromadb.PersistentClient(path=str(PERSIST_DIR))
+
     embedding_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
         model_name=EMBEDDING_MODEL_NAME
     )
@@ -116,27 +137,31 @@ def get_chroma_collection():
         chunks = build_chunks()
 
         documents = [chunk["text"] for chunk in chunks]
+
         metadatas = [
             {
-                "source": chunk["source"],
-                "doc_id": int(chunk["doc_id"]),
-                "chunk_id": int(chunk["chunk_id"]),
-                "char_count": int(chunk["char_count"]),
+                "source_url": chunk["source_url"],
+                "source_path": chunk["source_path"],
+                "doc_id": chunk["doc_id"],
+                "chunk_id": chunk["chunk_id"],
+                "char_count": chunk["char_count"],
             }
             for chunk in chunks
         ]
+
         ids = [str(uuid.uuid4()) for _ in chunks]
 
         batch_size = 100
+
         for i in range(0, len(documents), batch_size):
             collection.add(
-                ids=ids[i : i + batch_size],
-                documents=documents[i : i + batch_size],
-                metadatas=metadatas[i : i + batch_size],
+                ids=ids[i:i + batch_size],
+                documents=documents[i:i + batch_size],
+                metadatas=metadatas[i:i + batch_size],
             )
 
-        # Optional index for debugging.
         index_path = PERSIST_DIR / "chunk_index.jsonl"
+
         with index_path.open("w", encoding="utf-8") as f:
             for item_id, metadata in zip(ids, metadatas):
                 f.write(json.dumps({"id": item_id, **metadata}, ensure_ascii=False) + "\n")
@@ -145,7 +170,6 @@ def get_chroma_collection():
 
 
 def get_vectorstore() -> Chroma:
-    # This creates/reuses the Chroma DB before LangChain connects to it.
     get_chroma_collection()
 
     embedding_model = HuggingFaceEmbeddings(
@@ -165,22 +189,40 @@ _openai_client = None
 
 def vectorstore() -> Chroma:
     global _vectorstore
+
     if _vectorstore is None:
         _vectorstore = get_vectorstore()
+
     return _vectorstore
 
 
 def openai_client() -> OpenAI:
     global _openai_client
+
     if _openai_client is None:
         if not os.getenv("OPENAI_API_KEY"):
             raise RuntimeError("OPENAI_API_KEY environment variable is missing.")
+
         _openai_client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+
     return _openai_client
 
 
 def format_docs(docs) -> str:
-    return "\n\n".join(doc.page_content for doc in docs)
+    formatted = []
+
+    for i, doc in enumerate(docs, start=1):
+        source_url = doc.metadata.get("source_url", "Unknown URL")
+        chunk_id = doc.metadata.get("chunk_id", "N/A")
+
+        formatted.append(
+            f"[Source {i}]\n"
+            f"URL: {source_url}\n"
+            f"Chunk ID: {chunk_id}\n"
+            f"Content:\n{doc.page_content}"
+        )
+
+    return "\n\n".join(formatted)
 
 
 def get_collection_count() -> int:
@@ -196,35 +238,35 @@ def ask_rag(
     k: int = 3,
     model: str = OPENAI_MODEL,
 ) -> Dict[str, Any]:
+
     active_vector_store = vectorstore()
 
-    # Same logic as your notebook: retrieve more first, then filter.
     docs = active_vector_store.similarity_search(question, k=6)
 
     filtered_docs = []
+
     for d in docs:
-        source = d.metadata.get("source", "").lower()
+        source_url = d.metadata.get("source_url", "").lower()
         text = d.page_content.lower()
 
         if "ms in applied data science" in text:
             filtered_docs.append(d)
-        elif "booth" in source and "core courses" in text:
+        elif "booth" in source_url and "core courses" in text:
             filtered_docs.append(d)
 
-    # Fallback: if the strict filter removes everything, keep top retrieved docs.
-    # This makes the API more robust for questions where the phrase is not repeated in every chunk.
     docs = (filtered_docs or docs)[:k]
+
     context = format_docs(docs)
 
     instructions = (
         "You are a helpful assistant answering questions about the University of Chicago "
         "MS in Applied Data Science program. "
-        "Use ONLY the provided context. If multiple programs are mentioned, prioritize answers "
-        "specifically about the MS in Applied Data Science program, not joint MBA programs. "
-        "If unclear, say you don't know. "
+        "Use ONLY the provided context. "
+        "If multiple programs are mentioned, prioritize answers specifically about the "
+        "MS in Applied Data Science program, not joint MBA programs. "
         "If the answer is not clearly in the context, say: "
         "\"I don't know based on the provided context.\" "
-        "Keep the answer clear, concise, and factual. Do not make up details."
+        "Keep the answer clear, concise, and factual."
     )
 
     user_input = f"""Context:
@@ -242,14 +284,13 @@ Answer:"""
     )
 
     sources = []
+
     for doc in docs:
-        sources.append(
-            {
-                "source": doc.metadata.get("source", "Unknown source"),
-                "chunk_id": doc.metadata.get("chunk_id", "N/A"),
-                "preview": doc.page_content[:300].replace("\n", " "),
-            }
-        )
+        sources.append({
+            "url": doc.metadata.get("source_url", "Unknown URL"),
+            "chunk_id": doc.metadata.get("chunk_id", "N/A"),
+            "preview": doc.page_content[:300].replace("\n", " "),
+        })
 
     if show_sources:
         print("QUESTION:", question)

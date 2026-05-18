@@ -1,6 +1,6 @@
 import os
 from typing import Any, Dict
-
+from links import get_urls
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -46,7 +46,6 @@ def chat(req: ChatRequest) -> Dict[str, Any]:
         raise HTTPException(status_code=400, detail="Question cannot be empty.")
 
     result = ask_rag(question=question, show_sources=False, k=req.k)
-
     return {
         "question": result["question"],
         "answer": result["answer"],
